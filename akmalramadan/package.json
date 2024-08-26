@@ -1,0 +1,20 @@
+{
+  "name": "akmalramadan",
+  "version": "1.0.4",
+  "description": "Tugas Digistar Day 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "akmalrmn",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "keywords": [
+    "gcd",
+    "greatest common divisor",
+    "math",
+    "algorithm"
+  ]
+}
