@@ -1,20 +1,15 @@
 {
-  "name": "akmalramadan",
-  "version": "1.0.4",
-  "description": "Tugas Digistar Day 1",
+  "name": "digistar",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "akmalrmn",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  },
-  "keywords": [
-    "gcd",
-    "greatest common divisor",
-    "math",
-    "algorithm"
-  ]
+  "description": "",
+  "dependencies": {
+    "akmalramadan": "^1.0.4"
+  }
 }

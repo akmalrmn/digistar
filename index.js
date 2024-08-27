@@ -1,6 +1,3 @@
-function gcd(a, b) {
-  if (b === 0) return a;
-  return gcd(b, a % b);
-}
+const gcd = require('akmalramadan');
 
-module.exports = gcd;
+console.log(gcd(12, 15)); // 3
