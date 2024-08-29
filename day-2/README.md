@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Welcome to my first published npm package!</h1>
-    <img src="./img/foto.jpg" alt="Example screenshot"/>
+    <img src="./img/foto.jpg" alt="Example screenshot" width=200/>
     <br/>
     <br/>
     <br/>
