@@ -7,6 +7,6 @@
 
 </div>
 
-I'ts the first day of Digistar's Hacker Class with Mikhael and Coach Shofyan! i learn a lot about npm and how to publish a package. I'm so excited to share my first package with you guys.
+It's the first day of Digistar's Hacker Class with Mikhael and Coach Shofyan! i learn a lot about npm and how to publish a package. I'm so excited to share my first package with you guys.
 
  I hope you like it!
